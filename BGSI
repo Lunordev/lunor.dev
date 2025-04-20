@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lunordev/lunor.dev/refs/heads/main/Cmds", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lunordev/lunor.dev/refs/heads/main/Windows", true))()
