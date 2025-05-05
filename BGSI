@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Lunordev/lunor.dev/refs/heads/main/Cmds"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lunordev/lunor.dev/refs/heads/main/Config"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Lunordev/lunor.dev/refs/heads/main/Windows"))()
